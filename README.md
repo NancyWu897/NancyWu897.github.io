@@ -1,4 +1,4 @@
-# NancyWu897.github.io
+# NancyWu897.github.ionew.html
 my website
 
 Dsabdbw
@@ -14,4 +14,4 @@ Dwad
 - dwiahdw
 
 ---
-dwadw
+[dwadw](new.html)
